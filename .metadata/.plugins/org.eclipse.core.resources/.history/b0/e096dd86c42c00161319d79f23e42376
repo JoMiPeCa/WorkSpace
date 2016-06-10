@@ -1,0 +1,20 @@
+/**
+ * Programa tu futuro - Fundación Emplea
+ * Universidad de Chile 
+ * Curso de Programación en java
+ */
+package cl.curso.java.conexion;
+
+/**
+ * @author Juan Maldonado León
+ *
+ */
+public class Conexion {
+
+	
+	public void conectar()
+	{
+		
+	}
+	
+}

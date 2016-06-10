@@ -1,0 +1,10 @@
+package cl.curso.java.ejemplos;
+
+import javax.swing.JOptionPane;
+
+public class CuadroDeDialogo {
+	
+	public static void main(String[] args){
+		JOptionPane.showMessageDialog(null, "Adios Mundo Cruel");
+	}
+}

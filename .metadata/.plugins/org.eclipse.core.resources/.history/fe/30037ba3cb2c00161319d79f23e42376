@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package cl.curso.java.ejemplos.DB.conexion;
+
+/**
+ * @author Joseph Perez Carmona
+ *
+ */
+public class ConexionException extends RuntimeException {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

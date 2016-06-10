@@ -1,0 +1,27 @@
+/**
+ * 
+ */
+package cl.curso.java.ejemplos.DB.dao;
+
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+
+import cl.curso.java.ejemplos.DB.conexion.Conexion;
+import cl.curso.java.ejemplos.DB.login.Usuario;
+
+/**
+ * @author Joseph Perez Carmona
+ *
+ */
+public class UsuarioDAO {
+
+	public static void validar(Usuario usuario) throws SQLException{
+		Conexion con = Conexion.getInstancia();
+		PreparedStatement st = con.getConnection().prepareStatement(
+				"SELECT * FROM usuarios WHERE "+
+				"nombre_usuario = ? AND "+
+				"password = ?;");
+		
+		
+	}
+}

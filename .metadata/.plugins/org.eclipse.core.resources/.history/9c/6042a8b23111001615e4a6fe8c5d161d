@@ -1,0 +1,11 @@
+package cl.curso.java.ejemplos;
+
+import javax.swing.JOptionPane;
+
+public class CuadroDeDialogo {
+	
+	public static void main(String[] args){
+		String valorIngresado = JOptionPane.showInputDialog("Ingrese algo!!");
+		JOptionPane.showMessageDialog(null, valorIngresado);
+	}
+}
