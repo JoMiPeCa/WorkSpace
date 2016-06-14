@@ -1050,3 +1050,37 @@ Caused by: java.net.UnknownHostException: download.eclipse.org
 2016-06-09 12:35:29,406 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\abstract-factory\src\main\resources
 2016-06-09 12:35:29,407 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-06-09 12:35:29,407 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\abstract-factory\src\test\resources
+2016-06-13 09:51:19,886 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-13 09:51:19,927 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\abstract-factory\src\main\resources
+2016-06-13 09:51:19,929 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-13 09:51:19,929 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\abstract-factory\src\test\resources
+2016-06-13 09:51:27,629 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-13 09:51:27,630 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\login-app\src\main\resources
+2016-06-13 09:51:27,632 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-13 09:51:27,633 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\login-app\src\test\resources
+2016-06-13 09:51:53,937 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Clases:Clases:0.0.5 @ C:\Users\Joseph\Desktop\Eclipse Projects\Clases\pom.xml.
+2016-06-13 09:52:00,750 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.6/mysql-connector-java-5.1.6.pom
+2016-06-13 09:52:01,161 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.6/mysql-connector-java-5.1.6.pom
+2016-06-13 09:52:01,475 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.6/mysql-connector-java-5.1.6.jar
+2016-06-13 09:52:06,650 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.6/mysql-connector-java-5.1.6.jar
+2016-06-13 09:52:12,620 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-13 09:52:12,739 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 106 resources
+2016-06-13 09:52:55,649 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-13 09:52:55,651 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\Clases\src\test\resources
+2016-06-13 09:52:58,491 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-13 09:52:58,492 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\singleton-app\src\main\resources
+2016-06-13 09:52:58,493 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-13 09:52:58,494 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\singleton-app\src\test\resources
+2016-06-13 09:53:03,556 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-13 09:53:03,613 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 106 resources
+2016-06-13 09:53:05,828 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-13 09:53:05,830 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\Clases\src\test\resources
+2016-06-13 10:00:34,437 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Joseph\Desktop\Eclipse Projects\jperez\pom.xml
+2016-06-13 10:00:40,365 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cl.curso.java.prueba_tres:jperez:0.0.2 @ C:\Users\Joseph\Desktop\Eclipse Projects\jperez\pom.xml.
+2016-06-13 10:00:41,519 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jperez/src/main/java
+2016-06-13 10:00:41,528 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jperez/src/test/java
+2016-06-13 10:00:42,106 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2016-06-13 10:00:43,977 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-13 10:00:43,977 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\jperez\src\main\resources
+2016-06-13 10:00:43,979 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-13 10:00:43,979 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\jperez\src\test\resources
