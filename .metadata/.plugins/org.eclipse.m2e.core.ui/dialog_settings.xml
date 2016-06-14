@@ -69,16 +69,18 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="cl.curso.java.composite_menu"/>
 			<item value="cl.curso.java.prueba_tres.jperez"/>
 			<item value="cl.curso.java.abstract_factory"/>
 			<item value="cl.curso.java.singleton_app"/>
 			<item value="cl.curso.java.login_app"/>
 		</list>
 		<list key="groupId">
-			<item value="cl.curso.java.prueba_tres"/>
 			<item value="cl.curso.java"/>
+			<item value="cl.curso.java.prueba_tres"/>
 		</list>
 		<list key="artifactId">
+			<item value="composite-menu"/>
 			<item value="jperez"/>
 			<item value="abstract-factory"/>
 			<item value="singleton-app"/>
@@ -93,8 +95,8 @@
 			<item value="[name]"/>
 		</list>
 		<list key="version">
-			<item value="0.0.2"/>
 			<item value="0.0.1-SNAPSHOT"/>
+			<item value="0.0.2"/>
 		</list>
 	</section>
 </section>

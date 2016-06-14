@@ -1084,3 +1084,76 @@ Caused by: java.net.UnknownHostException: download.eclipse.org
 2016-06-13 10:00:43,977 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\jperez\src\main\resources
 2016-06-13 10:00:43,979 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-06-13 10:00:43,979 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\jperez\src\test\resources
+2016-06-14 10:13:23,804 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:13:23,851 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\abstract-factory\src\main\resources
+2016-06-14 10:13:23,854 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:13:23,854 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\abstract-factory\src\test\resources
+2016-06-14 10:13:28,044 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:13:28,044 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\login-app\src\main\resources
+2016-06-14 10:13:28,046 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:13:28,046 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\login-app\src\test\resources
+2016-06-14 10:13:37,167 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-14 10:13:37,211 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 106 resources
+2016-06-14 10:14:03,302 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-14 10:14:03,303 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\Clases\src\test\resources
+2016-06-14 10:14:03,688 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:14:03,688 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\singleton-app\src\main\resources
+2016-06-14 10:14:03,690 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:14:03,691 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\singleton-app\src\test\resources
+2016-06-14 10:14:27,820 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Joseph\Desktop\Eclipse Projects\composite-menu\pom.xml
+2016-06-14 10:14:40,894 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cl.curso.java:composite-menu:0.0.1-SNAPSHOT @ C:\Users\Joseph\Desktop\Eclipse Projects\composite-menu\pom.xml.
+2016-06-14 10:14:43,547 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /composite-menu/src/main/java
+2016-06-14 10:14:43,553 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /composite-menu/src/test/java
+2016-06-14 10:14:45,844 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 18 sec
+2016-06-14 10:14:51,201 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:14:51,201 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\composite-menu\src\main\resources
+2016-06-14 10:14:51,203 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:14:51,203 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\composite-menu\src\test\resources
+2016-06-14 10:15:14,881 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:15:14,881 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\composite-menu\src\main\resources
+2016-06-14 10:15:14,883 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:15:14,883 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\composite-menu\src\test\resources
+2016-06-14 10:16:36,931 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:16:36,932 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\composite-menu\src\main\resources
+2016-06-14 10:16:36,934 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:16:36,934 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\composite-menu\src\test\resources
+2016-06-14 10:16:46,499 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:16:46,499 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\composite-menu\src\main\resources
+2016-06-14 10:16:46,502 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:16:46,502 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\composite-menu\src\test\resources
+2016-06-14 10:20:55,698 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:20:55,699 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\composite-menu\src\main\resources
+2016-06-14 10:20:55,700 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:20:55,701 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\composite-menu\src\test\resources
+2016-06-14 10:28:57,795 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:28:57,795 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\composite-menu\src\main\resources
+2016-06-14 10:28:57,796 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:28:57,797 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\composite-menu\src\test\resources
+2016-06-14 10:30:10,989 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:30:10,989 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\composite-menu\src\main\resources
+2016-06-14 10:30:10,991 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:30:10,992 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\composite-menu\src\test\resources
+2016-06-14 10:30:12,296 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:30:12,296 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\composite-menu\src\main\resources
+2016-06-14 10:30:12,297 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:30:12,297 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\composite-menu\src\test\resources
+2016-06-14 10:33:58,477 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:33:58,478 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\composite-menu\src\main\resources
+2016-06-14 10:33:58,479 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:33:58,479 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\composite-menu\src\test\resources
+2016-06-14 10:34:17,296 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:34:17,298 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\composite-menu\src\main\resources
+2016-06-14 10:34:17,299 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:34:17,300 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\composite-menu\src\test\resources
+2016-06-14 10:37:08,714 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:37:08,715 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\composite-menu\src\main\resources
+2016-06-14 10:37:08,716 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:37:08,717 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\composite-menu\src\test\resources
+2016-06-14 10:43:36,494 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:43:36,494 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\composite-menu\src\main\resources
+2016-06-14 10:43:36,498 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:43:36,499 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\composite-menu\src\test\resources
+2016-06-14 10:43:55,035 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:43:55,036 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\composite-menu\src\main\resources
+2016-06-14 10:43:55,037 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 10:43:55,037 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Joseph\Desktop\Eclipse Projects\composite-menu\src\test\resources
